@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">anime</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+    <string name="signUp">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="welcome">Welcome Back!</string>
+    <string name="start">Log In to Start</string>
+    <string name="anime">Animes</string>
+    <string name="oriName">Original Name: </string>
+    <string name="genre">Genre: </string>
+    <string name="year">Year: </string>
+    <string name="pg">PG: </string>
+    <string name="sinop">Sinopsis</string>
+    <string name="epi">Episode: </string>
+    <string name="numepi">Episodes </string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="user">Preofile Settings</string>
+    <string name="hello">Hello there!</string>
+    <string name="sign">Sign Up to Start</string>
+    <string name="update">update</string>
+    <string name="dalete">delete</string>
+    <string name="mainUser">User    Profile</string>
+    <string name="mAnimeList">Animes      List</string>
+    <string name="mSaeAnim">Search      Anime</string>
+    <string name="mFavList">Favorites List</string>
+    <string name="mVidAni">Videos Animes</string>
+    <string name="mStats">Log In</string>
+</resources>
